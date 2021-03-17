@@ -417,11 +417,11 @@ figure:hover {
     background: #F2F2F2;
     border-radius: 20px;
     padding: 30px 25px;
-    min-height: 519px;
+    min-height: 300px;
     margin-bottom: 20px;
 }
 
-@media (max-width:640px) {
+@media (max-width:600px) {
     #hebergement .fondgris {
         background: #F2F2F2;
         border-radius: 0px !important;
