@@ -34,7 +34,7 @@ h1 {
 }
 
 @media (max-width:640px) {
-    .container {
+    .container { 
         padding-right: 0px;
         padding-left: 0px;
     }
